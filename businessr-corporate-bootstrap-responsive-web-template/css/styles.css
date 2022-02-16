@@ -235,7 +235,7 @@ a:hover {
 	font-size: 48px;
 	float: left;
 	width: 20%;
-	color: #DF4A43;
+	color: #3d5c9d;
 	height: 100%;
 	position: relative;
 	opacity: 0.6;
@@ -273,9 +273,9 @@ a:hover {
 	height: 100px;
 	line-height: 100px;
 	font-size: 50px;
-	color: #DF4A43;
+	color: #3d5c9d;
 	border-radius: 5px;
-	border: solid 1px #DF4A43;
+	border: solid 1px #3d5c9d;
 	border-radius: 50%;
 }
 .subscribe p {
@@ -305,7 +305,7 @@ a:hover {
 }
 .subscribe-form button {
 	border-radius: 0 4px 4px 0;
-	background-color: #DF4A43;
+	background-color: #3d5c9d;
 	color: #ffffff;
 	font-size: 1em;
 	line-height: 52px;
@@ -346,7 +346,7 @@ a:hover {
     width: 100px;
     height: 3px;
     margin: 0 auto;
-    background: #DF4A43;
+    background: #3d5c9d;
 }
 .portfolio {
     padding-top: 50px;
@@ -366,7 +366,7 @@ a:hover {
 	transition: all .8s ease;
 }
 .portfolio .screen img:hover {
-	border: solid 5px #DF4A43;
+	border: solid 5px #3d5c9d;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
 }
@@ -477,10 +477,10 @@ a:hover {
 }
 .clients-item .client-info .company {
 	font-style: italic;
-	color: #DF4A43;
+	color: #3d5c9d;
 }
 .owl-theme .owl-controls .owl-page span{
-	background: #DF4A43;
+	background: #3d5c9d;
 }
 .action {
 	color: #fff;
@@ -566,10 +566,10 @@ a:hover {
 	width: 40px;
 	height: 40px;
 	line-height: 40px;
-	color: #DF4A43;
+	color: #3d5c9d;
 	border-radius: 5px;
 	background: #fff;
-	border: solid 1px #DF4A43;
+	border: solid 1px #3d5c9d;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
 	border-radius: 50%;
@@ -591,7 +591,7 @@ a:hover {
 	display: none;
 }
 .scrollToTop:hover{
-	color: #DF4A43;
+	color: #3d5c9d;
 }
 .control-group .controls {
 	overflow-x: hidden;
@@ -606,7 +606,7 @@ padding:100px 0;
     width: 100px;
     height: 3px;
     margin: 0 auto;
-    background: #DF4A43;
+    background: #3d5c9d;
 }
 .price-box {
 	border: solid 1px #DEDEDE;
@@ -637,7 +637,7 @@ padding:100px 0;
 	bottom: 0px;
 }
 .price-group .price {
-	color: #DF4A43;
+	color: #3d5c9d;
 	font-size: 46px;
 	font-weight: 500;
 }
@@ -656,7 +656,7 @@ padding:100px 0;
 	font-size: 17px;
 	padding: 7px 35px;
 	height: 40px;
-	background: #DF4A43;
+	background: #3d5c9d;
 	transition: all 0.4s;
 	color: white;
 	border-radius: 0;	
@@ -688,7 +688,7 @@ padding:100px 0;
 	margin-left: 15px;
 	position: absolute; 
 	left: 0;
-	color: #DF4A43; 
+	color: #3d5c9d; 
 	font-size: 25px;
 	line-height: 30px;
 }
@@ -719,7 +719,7 @@ padding:100px 0;
 }
 #contact-form .btn {
 	height: 55px;
-	background-color: #DF4A43;
+	background-color: #3d5c9d;
 	color: #ffffff;
 	font-size: 17px !important;
 	line-height: 18px;
