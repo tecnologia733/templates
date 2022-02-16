@@ -119,15 +119,15 @@ a:hover {
 	line-height: 20px;
 	padding: 15px 35px;
 	height: 50px;
-	border: 2px solid #DF4A43;
-	background: #DF4A43;
+	border: 2px solid #3d5c9d;
+	background: #3d5c9d;
 	transition: all 0.4s;
 	color: white;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
-	border: 2px solid #DF4A43;
+	border: 2px solid #3d5c9d;
 	background: transparent;
-	color: #DF4A43;
+	color: #3d5c9d;
 }
 .btn-secondary {
 	font-size: 20px;
