@@ -38,7 +38,7 @@ p {
 	margin:0;
 }
 a {
-	color: #DF4A43;
+	color: #3d5c9d;
 	outline: 0;
 	font-weight: bold;
 	-webkit-transition: all .8s ease;
@@ -51,7 +51,7 @@ a:hover {
 	transition: all .8s ease;
 }
 .highlight {
-	color: #DF4A43;
+	color: #3d5c9d;
 }
  
 .fullscreen {
@@ -72,7 +72,7 @@ a:hover {
 	z-index: 999;
 }
 .navbar-default {
-	background: #df4a43;
+	background: #3d5c9d;
 	padding: 15px 0;
 }
 .navbar-default .navbar-brand {
