@@ -1,0 +1,112 @@
+@font-face {
+
+        font-family: 'Pe-icon-7-stroke';
+
+        src:url('../fonts/Pe-icon-7-stroke.eot?d7yf1v');
+
+        src:url('../fonts/Pe-icon-7-stroke.eot?#iefixd7yf1v') format('embedded-opentype'),
+
+                url('../fonts/Pe-icon-7-stroke.woff?d7yf1v') format('woff'),
+
+                url('../fonts/Pe-icon-7-stroke.ttf?d7yf1v') format('truetype'),
+
+                url('../fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke') format('svg');
+
+        font-weight: normal;
+
+        font-style: normal;
+
+}
+
+
+
+[class^="pe-7s-"], [class*=" pe-7s-"] {
+
+        display: inline-block;
+
+        font-family: 'Pe-icon-7-stroke';
+
+        speak: none;
+
+        font-style: normal;
+
+        font-weight: normal;
+
+        font-variant: normal;
+
+        text-transform: none;
+
+        line-height: 1;
+
+
+
+        /* Better Font Rendering =========== */
+
+        -webkit-font-smoothing: antialiased;
+
+        -moz-osx-font-smoothing: grayscale;
+
+}
+
+
+
+.pe-7s-album:before {
+
+        content: "\e6aa";
+
+}
+
+.pe-7s-arc:before {
+
+        content: "\e6ab";
+
+}
+
+.pe-7s-back-2:before {
+
+        content: "\e6ac";
+
+}
+
+.pe-7s-bandaid:before {
+
+        content: "\e6ad";
+
+}
+
+.pe-7s-car:before {
+
+        content: "\e6ae";
+
+}
+
+.pe-7s-diamond:before {
+
+        content: "\e6af";
+
+}
+
+.pe-7s-door-lock:before {
+
+        content: "\e6b0";
+
+}
+
+.pe-7s-eyedropper:before {
+
+        content: "\e6b1";
+
+}
+
+.pe-7s-female:before {
+
+        content: "\e6b2";
+
+}
+
+.pe-7s-gym:before {
+
+        content: "\e6b3";
+
+}
+
