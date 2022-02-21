@@ -163,6 +163,9 @@
 }
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
+.fa-whatsapp:before {
+  content: "\f232";
+}
 .fa-glass:before {
   content: "\f000";
 }
