@@ -21,7 +21,28 @@
 <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,700' rel='stylesheet' type='text/css'>
 </head>
   
-<body data-spy="scroll" data-target="#navbar-scroll">
+<body data-spy="scroll" data-target="#navbar-scroll"
+      
+     
+    <script>
+      (function(d,t) {
+        var BASE_URL="https://app.chatwoot.com";
+        var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+        g.src=BASE_URL+"/packs/js/sdk.js";
+        g.defer = true;
+        g.async = true;
+        s.parentNode.insertBefore(g,s);
+        g.onload=function(){
+          window.chatwootSDK.run({
+            websiteToken: 'djpNAzGtcK8ebRmJUNu3Stjz',
+            baseUrl: BASE_URL
+          })
+        }
+      })(document,"script");
+    </script>
+     
+      
+      >
  
  <div id="top"></div>
  
