@@ -22,9 +22,10 @@
 	
 <!--Chatweb --> 
 	
-	<script>
-	(function(d,t) {
-        var BASE_URL="https://app.chatwoot.com";
+	
+    <script>
+      (function(d,t) {
+        var BASE_URL="https://CHANGE.herokuapp.com";
         var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
         g.src=BASE_URL+"/packs/js/sdk.js";
         g.defer = true;
@@ -32,12 +33,13 @@
         s.parentNode.insertBefore(g,s);
         g.onload=function(){
           window.chatwootSDK.run({
-            websiteToken: 'djpNAzGtcK8ebRmJUNu3Stjz',
+            websiteToken: '2QsjvnBfV5P1ZMipX9JBnbTP',
             baseUrl: BASE_URL
           })
         }
       })(document,"script");
-      </script>
+    </script>
+    
 	
 </head>
   
