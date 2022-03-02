@@ -468,7 +468,33 @@
 					 
 					<div class="col-sm-7 contact-right">
 						
-						
+						<form method="POST" id="contact-form" class="form-horizontal" action="https://formspree.io/f/myyojjje" onSubmit="alert('Mensagem enviada com sucesso. Obrigado!');">
+
+                                                        <div class="form-group">
+
+                                                        <input type="text" name="Name" id="Name" class="form-control wow fadeInUp" placeholder="Seu Nome" required/>
+
+                                                        </div>
+
+                                                        <div class="form-group">
+
+                                                        <input type="text" name="Email" id="Email" class="form-control wow fadeInUp" placeholder="Seu Email" required/>
+
+                                                        </div>                                  
+
+                                                        <div class="form-group">
+
+                                                        <textarea name="Message" rows="20" cols="20" id="Message" class="form-control input-message wow fadeInUp"  placeholder="Sua Mensagem" required></textarea>
+
+                                                        </div>
+
+                                                        <div class="form-group">
+
+                                                        <input type="submit" name="submit" value="Enviar" class="btn btn-success wow fadeInUp" />
+
+                                                        </div>
+
+                                        </form>
 						
 					<!-- form method="POST" id="contact-form" class="form-horizontal" action="contactengine.php" onSubmit="alert('Desculpe, sua mensagem não foi enviada. Para nova tentativa,copie sua mensagem e depois clique no email abaixo do Telegram.');">
 							<div class="form-group">
