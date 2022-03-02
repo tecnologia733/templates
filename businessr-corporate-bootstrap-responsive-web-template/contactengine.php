@@ -1,8 +1,8 @@
 <?php
 
-$EmailFrom = "contato@tecinovaservicos.com.br";
-$EmailTo = "robertoalves@tuta.io";
-$Subject = "Mensagem enviada pelo site [tecinovaservicos.com.br]";
+$EmailFrom = "";
+$EmailTo = "";
+$Subject = "";
 $Name = Trim(stripslashes($_POST['Name'])); 
 $Email = Trim(stripslashes($_POST['Email'])); 
 $Message = Trim(stripslashes($_POST['Message'])); 
