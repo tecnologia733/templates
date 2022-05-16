@@ -1,0 +1,41 @@
+.whats{	
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	font-size:30px;
+	box-shadow: 1px 1px 2px #888;
+	z-index:1000;
+	position:fixed; 
+	width:60px;
+	height:60px;
+	bottom:65px;
+	right:25px;
+}
+
+.whats:hover {
+	opacity: 0.8;
+}
+
+.pulandinho {
+	animation-name: pulandinho;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-timing-function: ease-out;
+	animation-delay: 1s;	
+}
+
+.icone-whats {
+	margin-top:16px;
+	color: white;
+}
+.icone-whats:hover {
+	color: white;	
+}
+
+@keyframes pulandinho {
+	0% {bottom: 65px; background-color: #25d366;}
+	90% {bottom: 65px; background-color: #25d366;}
+	100% {bottom: 75px; background-color: #09f05e;}
+}
