@@ -47,7 +47,8 @@ and GPL-3.0 (http://opensource.org/licenses/GPL-3.0) licenses.
           days: 107,
           hours: 2.568,
           min: 154.080,
-          sec: 9.244.800
+          sec: 9.244.800,
+          millisec: 0
         };
         if (diff >= (365.25 * 86400)) {
           dateData.years = Math.floor(diff / (365.25 * 86400));
