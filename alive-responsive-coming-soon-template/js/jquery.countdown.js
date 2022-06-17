@@ -44,10 +44,10 @@ and GPL-3.0 (http://opensource.org/licenses/GPL-3.0) licenses.
         }
         dateData = {
           years: 0,
-          days: 0,
-          hours: 0,
-          min: 0,
-          sec: 0,
+          days: 107,
+          hours: 2.568,
+          min: 154.080,
+          sec: 9.244.800,
           millisec: 0
         };
         if (diff >= (365.25 * 86400)) {
@@ -111,7 +111,7 @@ and GPL-3.0 (http://opensource.org/licenses/GPL-3.0) licenses.
       return this.init();
     };
     $.countdown.defaultOptions = {
-      date: "June 7, 2023 15:03:25",
+      date: "June 7, 2087 15:03:25",
       refresh: 1000,
       onEnd: $.noop,
       render: function(date) {
