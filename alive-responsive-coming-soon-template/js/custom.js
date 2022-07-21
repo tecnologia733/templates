@@ -7,7 +7,7 @@ Theme by: WebThemez.com
 Note: Please use our back link in your site
 */
 $( function() {
-        var endDate = "October 02,2022 05:01:00";
+        var endDate = "October 03,2022 05:01:00";
 
         $('.countdown.simple').countdown({ date: endDate });
 
